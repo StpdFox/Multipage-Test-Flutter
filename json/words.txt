@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "word": "bamb3oozled"
+        "word": "แผนดินไหว"
     },
     {
         "id": 1,
