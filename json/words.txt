@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "word": "bamboozled"
+        "word": "bamb3oozled"
     },
     {
         "id": 1,
