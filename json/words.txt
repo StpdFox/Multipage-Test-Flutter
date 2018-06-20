@@ -1,12 +1,12 @@
 [
     {
         "id": 0,
-        "word": "Agile"
+        "word": "แผนดินไหวแผนดินไหว"
     },
     {
         "id": 1,
         "word": "SCRUM"
-    },
+    },2
     {
         "id": 2,
         "word": "CAFCR"
